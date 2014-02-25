@@ -1,0 +1,9 @@
+env/
+*.pyc
+booth/static/shots/
+booth/config.py
+.blog/
+.vagrant/
+logs/
+venv/
+Berksfile.lock
